@@ -78,7 +78,7 @@ git clone https://github.com/rhitamcoder/disparity.git
 cd disparity
 ```
 ```
-jupyter notebook Fatal_Force__solved_.ipynb
+jupyter notebook Fatal_Force_solved.ipynb
 ```
 
 To work through the analysis yourself, open `Fatal_Force_start.ipynb` instead. It contains the same questions without the solutions.
